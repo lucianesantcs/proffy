@@ -1,4 +1,4 @@
-![banner]()
+![banner](https://raw.githubusercontent.com/lucianesantcs/proffy/master/design/mockup_01.png)
 
 # Proffy
 
